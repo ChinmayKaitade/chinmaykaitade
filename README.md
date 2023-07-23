@@ -1,3 +1,11 @@
+<p align="center">
+<a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+🌎;Welcome+to+my+profile+😇;Happy+to+see+you+here+😀;Feel+free+to+look+around+😌;Reach+me+out+if+you+need+me+🤗;Have+a+great+day+😊"></a>
+</p>
+
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
 <h1 align="center">Hello  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
@@ -6,19 +14,23 @@
 
 <p align="left"> <a href="https://twitter.com/kaitadechinmay" target="blank"><img src="https://img.shields.io/twitter/follow/kaitadechinmay?logo=twitter&style=for-the-badge" alt="kaitadechinmay" /></a> </p>
 
-- •😄 Pronouns: **He/His**
+- 😄 Pronouns: **He/His**
 
-- •🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
-- •✨ Skilled **MERN Stack Developer**
+- ✨ Skilled **An Aspiring MERN Stack Developer**
 
-- •👨‍🎓 Graduated in **Electrical Engineering👨‍🔧⚡**
+- 👨‍🎓 Graduated in **Electrical Engineering👨‍🔧⚡ @2022**
 
-- •💬 Ask me about **about Full Stack Development Stuffs**
+- 💬 Ask me about **about Full Stack Development Stuffs**
 
-- •📫 How to reach me **Checkout Social links given below**
+- 📫 How to reach me **Checkout Social links given below**
 
-- •⚡ Fun fact **Your childhood celebrity crush❤‍🔥**
+- ⚡ Fun fact **Your childhood celebrity crush❤‍🔥**
+
+<p align="center">
+<img src="https://github-widgetbox.vercel.app/api/profile?username=ChinmayKaitade&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,9 +49,29 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=chinmaykaitade&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=chinmaykaitade&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chinmaykaitade&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<hr>
+
+| ![Chinmay Github Stats](https://github-readme-stats.vercel.app/api?username=ChinmayKaitade&show_icons=true&theme=radical) | ![Chinmay GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChinmayKaitade&theme=radical)                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayKaitade&langs_count=8&theme=radical&layout=compact) | ![Github Stars](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChinmayKaitade&theme=radical&utcOffset=8) |
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChinmayKaitade&theme=2077) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChinmayKaitade&theme=2077)
+
+<!-- color=nord_dark -->
+
+<hr>
+
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
+## 📈 GitHub Contribution Graph
+[![Chinmay Kaitade github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ChinmayKaitade&bg_color=d4d1ff&color=4c749e&line=9e4c59&point=40413e&area=true&hide_border=true)](https://github.com/ChinmayKaitade/github-readme-activity-graph)
+<hr>
+
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=chinmaykaitade&theme=dark&no-frame=true&no-bg=false&margin-w=4)
