@@ -10,7 +10,12 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Chinmay Kaitade</h1>
-<h3 align="center">A passionate Full Stack Developer.</h3>
+<h3 align="center">An Aspiring passionate Full Stack Developer.</h3>
+
+
+<p align="center">
+  <img src="animated.gif" align="center" width="90%" />
+</p>
 
 
 <p align="left"> <a href="https://twitter.com/kaitadechinmay" target="blank"><img src="https://img.shields.io/twitter/follow/kaitadechinmay?logo=twitter&style=for-the-badge" alt="kaitadechinmay" /></a> </p>
