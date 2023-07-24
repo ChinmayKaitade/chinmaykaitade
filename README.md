@@ -123,12 +123,15 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 💳 Github Profile Summary Card
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChinmayKaitade&theme=vue"/>
-</p>
+<img width="200px" align="left" src="https://komarev.com/ghpvc/?username=your-github-Shrey-Srivastava21&style=flat-square&color=22CCB2">
+<hr>
+<br>
 
----
-[![](https://visitcount.itsvg.in/api?id=chinmaykaitade&icon=0&color=1)](https://visitcount.itsvg.in)
+<div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChinmayKaitade&theme=2077"  display=block width=100% height=auto  alt="1" >
+</div>
+
+
 
 
 <h3 align="center">
