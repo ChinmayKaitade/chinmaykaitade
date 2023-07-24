@@ -82,14 +82,18 @@
 </h3>
 
 
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
+
 # 📊 GitHub Stats:
 
 <hr>
 
 | ![Chinmay Github Stats](https://github-readme-stats.vercel.app/api?username=ChinmayKaitade&show_icons=true&theme=radical) | ![Chinmay GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChinmayKaitade&theme=radical)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayKaitade&langs_count=8&theme=radical&layout=compact) | ![Github Stars](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChinmayKaitade&theme=radical&utcOffset=8) |
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChinmayKaitade&theme=2077) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChinmayKaitade&theme=2077)
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayKaitade&langs_count=8&theme=radical&layout=compact) | ![Github Stars](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChinmayKaitade&theme=radical&utcOffset=8) 
 
 <!-- color=nord_dark -->
 
@@ -123,3 +127,10 @@
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/chinmayck) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/chinmayck) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/chinmayck) 
+
+
+<div align="center">
+
+### Made By ❤️ Chinmay Kaitade © Copyright. All Rights Reserved @2023.
+
+</div>
