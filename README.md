@@ -34,7 +34,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- ✨ Skilled **An Aspiring MERN Stack Developer**
+- ✨ Skilled **Aspiring MERN Stack Developer**
 
 - 👨‍🎓 Graduated in **Electrical Engineering👨‍🔧⚡ @2022**
 
