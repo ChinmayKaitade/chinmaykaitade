@@ -34,9 +34,16 @@
 
 - ⚡ Fun fact **Your childhood celebrity crush❤‍🔥**
 
+
 <p align="center">
 <img src="https://github-widgetbox.vercel.app/api/profile?username=ChinmayKaitade&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
 </p>
+
+
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
