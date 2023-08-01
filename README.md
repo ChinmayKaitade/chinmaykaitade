@@ -36,7 +36,7 @@
 <p align="left"> <a href="https://twitter.com/kaitadechinmay" target="blank"><img src="https://img.shields.io/twitter/follow/kaitadechinmay?logo=twitter&style=for-the-badge" alt="kaitadechinmay" /></a> 
 
 
-## <picture><img src = "https://github.com/ChinmayKaitade/ChinmayKaitade/blob/main/about_me.gif" width = 50px></picture> **About Me🫰*
+## <picture><img src = "https://github.com/ChinmayKaitade/ChinmayKaitade/blob/main/about_me.gif" width = 50px></picture> **About Me🫰**
 
 - 😄 Pronouns: **He/His**
 
