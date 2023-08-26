@@ -50,7 +50,7 @@
 
 - 📫 How to reach me **Checkout Social links given below**
 
-- ⚡ Fun fact **Your childhood celebrity crush❤‍🔥**
+- ⚡ Fun fact **Your Childhood Celebrity Crush❤‍🔥**
 
 
 <p align="center">
