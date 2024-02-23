@@ -69,6 +69,31 @@
 <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">
 </div>
 
+### A Little More About Me! 🧟‍♂️
+
+```javascript
+const chinmay = {
+  askMeAbout: ["Web Dev", "Tech", "Editing"],
+  code: [JavaScript, TypeScript, HTML, CSS, C++],
+  tools: [React, Redux, Node, Styled-Components, Tailwind CSS],
+  techCommunities: {
+                           Google Crowdsource,
+                           Github Developers Club,
+                           Follow Me on Dribble, Stackoverflow and LinkedIn
+                      },
+  hobbies: {
+               'Playing Games',
+               'Tech Enthusiast'
+               'Being up all Night Chasing that ONE BUG...'
+           },
+
+ challenge: ["I am Learning MERN Stack Development"],
+
+ lastButNotLeast: ["Updating Myself Virtually and in Reality"]
+}
+```
+
+
 <!-- Coloured Line -->
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
