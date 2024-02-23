@@ -40,7 +40,9 @@
 
 <!-- About Me Section Here -->
 
-## <picture><img src = "https://github.com/ChinmayKaitade/ChinmayKaitade/blob/main/about_me.gif" width = 50px></picture> **About Me**
+## <picture><img src = "https://github.com/ChinmayKaitade/ChinmayKaitade/blob/main/about_me.gif" width = 50px></picture> *About Me*
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
+
 
 - 😄 Pronouns: **He/His**
 
@@ -73,7 +75,7 @@
 </h3>
 
 <!-- Connect With Me Section Here -->
-<h3 align="left">🤞 Connect with me:</h3>
+<h1 align="left">🤞 Connect with Me</h1>
 <p align="left">
 <a href="https://dev.to/chinmaykaitade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="chinmaykaitade" height="30" width="40" /></a>
 <a href="https://twitter.com/kaitadechinmay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaitadechinmay" height="30" width="40" /></a>
@@ -88,7 +90,7 @@
 </p>
 
 <!-- Language and Tools Section Here -->
-<h3 align="left">🛠 Language and Tools:</h3>
+<h1 align="left">🛠 Language and Tools</h1>
 
 <!-- Vector Tool Gif -->
 <p align='center'>
@@ -114,11 +116,11 @@
 
 <!-- SkillSet Section Here -->
 
-## ✌✨ My Skills Set:
+# 👨‍💻 My Skills Set:
 
 <table><tr><td valign="top" width="33%">
 
-### Frontend
+## Frontend
 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -145,7 +147,7 @@
 
 </td><td valign="top" width="33%">
 
-### Backend
+## Backend
 
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -163,7 +165,7 @@
 
 </td><td valign="top" width="33%">
 
-### DevOps
+## DevOps
 
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
@@ -192,7 +194,7 @@
 
 <!-- GitHub Stats Section Here -->
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
 <hr>
 
