@@ -231,6 +231,10 @@ const chinmay = {
 
 <hr>
 
+<p align="center">
+<img src="https://github-widgetbox.vercel.app/api/profile?username=ChinmayKaitade&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
+</p>
+
 <!-- Coloured Line -->
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
@@ -289,9 +293,8 @@ const chinmay = {
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-<p align="center">
-<img src="https://github-widgetbox.vercel.app/api/profile?username=ChinmayKaitade&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
-</p>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ybli0il5ugmggwcqrfomuyt7e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=ybli0il5ugmggwcqrfomuyt7e&redirect=true)
+
 
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
