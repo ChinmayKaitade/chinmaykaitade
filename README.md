@@ -74,7 +74,7 @@
 ```javascript
 const chinmay = {
   askMeAbout: ["Web Dev", "Tech", "Editing"],
-  code: [JavaScript, TypeScript, HTML, CSS, C++],
+  code: [HTML5, CSS3, TailwindCSS, JavaScript, ReactJS, NodeJS, Express],
   tools: [React, Redux, Node, Styled-Components, Tailwind CSS],
   techCommunities: {
                            Google Crowdsource,
