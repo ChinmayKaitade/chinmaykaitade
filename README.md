@@ -50,8 +50,6 @@
 
 - 🏆 I'm Interested in making the world better by **PRs**
 
-- 👨‍🎓 Graduated in **Electrical Engineering 👨‍🔧⚡ @2022**
-
 - 💬 Ask me about **about Web Development Stuffs**
 
 - 📫 How to reach me chinmaykaitade123@gmail.com
