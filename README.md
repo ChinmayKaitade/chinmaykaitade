@@ -7,7 +7,7 @@
 <!-- =============================== -->
 <!-- 👋 Intro Heading with Titles -->
 <!-- =============================== -->
-<h1 align="center">Namaste<h1 align="center">Hello<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1 align="center">Namaste<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
 alt="Waving hand animated gif"
 height="45" width="45"/>, I'm Chinmay Kaitade</h1>
 <h3 align="center">🚀 MERN Stack Developer | 🤖 AI Enthusiast | 🌍 Open Source Advocate</h3>
