@@ -7,7 +7,9 @@
 <!-- =============================== -->
 <!-- 👋 Intro Heading with Titles -->
 <!-- =============================== -->
-<h1 align="center">Namaste 👋, I'm Chinmay Kaitade</h1>
+<h1 align="center">Namaste<h1 align="center">Hello<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+alt="Waving hand animated gif"
+height="45" width="45"/>, I'm Chinmay Kaitade</h1>
 <h3 align="center">🚀 MERN Stack Developer | 🤖 AI Enthusiast | 🌍 Open Source Advocate</h3>
 <h3 align="center">A Passionate Full Stack Developer from India 🇮🇳</h3>
 
@@ -97,7 +99,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,express,mongodb,git,github,vscode,figma,ai" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,express,mongodb,git,github,vscode,figma,linux" />
   <img src="https://skillicons.dev/icons?i=next,materialui,babel,docker,npm,typescript,arduino,bash,cpp,firebase,gitlab,postman,replit,supabase" />
 </p>
 
