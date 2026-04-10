@@ -10,8 +10,28 @@
 <h1 align="center">Namaste<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
 alt="Waving hand animated gif"
 height="45" width="45"/>, I'm Chinmay Kaitade</h1>
+
 <h3 align="center">🚀 MERN Stack Developer | 🤖 AI Enthusiast | 🌍 Open Source Advocate</h3>
 <h3 align="center">A Passionate Full Stack Developer from India 🇮🇳</h3>
+
+<!-- =============================== -->
+<!-- 🔗 Social & Portfolio Links -->
+<!-- =============================== -->
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/chinmay-sharad-kaitade" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:chinmaykaitade123@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/ChinmayKaitade" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://chinmaykaitadeportfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 <!-- =============================== -->
 <!-- ✨ Divider -->
@@ -52,13 +72,15 @@ height="45" width="45"/>, I'm Chinmay Kaitade</h1>
 
 ## 🚀 About Me
 
-🎓 An **Electrical Engineer** who successfully transitioned into a **Full Stack Developer** and **AI/ML Enthusiast**. I am passionate about crafting innovative web applications and actively contributing to **Open Source** projects.
+🎓 **Electrical Engineer → Full Stack Developer | AI/ML Enthusiast**
 
-👨‍💻 Currently serving as a Frontend Developer Intern at **Physics Wallah**, having previously gained experience as an Ex-Intern at **iNeuron.ai**. I've built my [Personal Portfolio](https://chinmaykaitadeportfolio.vercel.app/) and am actively exploring cutting-edge tools like **Next.js** and **AI Agents**.
+I am a Full Stack Developer passionate about building scalable, user-centric web applications and contributing to open-source projects.
 
-✨ **Mission:** To leverage my full-stack expertise and emerging **AI/ML** knowledge to build scalable, high-performance web applications, provide user-centric solutions, and contribute innovative value to real-world challenges.
+👨‍💻 **Experience:** Frontend Developer Intern at _Physics Wallah_ | Ex-Intern at _iNeuron.ai_
 
-🤝 **Let's Connect:** I am always open to discussing new projects, exchanging ideas, or collaborating on challenging tech endeavors. Connect with me on [LinkedIn](https://www.linkedin.com/in/chinmay-sharad-kaitade/)!
+🚀 Built projects including my [Portfolio](https://chinmaykaitadeportfolio.vercel.app/) and actively exploring **Next.js** & **AI Agents**
+
+✨ **Goal:** To leverage full-stack and AI/ML skills to create impactful, high-performance solutions for real-world problems.
 
 <!-- ✨ Divider -->
 <h3 align="center">
@@ -93,14 +115,29 @@ height="45" width="45"/>, I'm Chinmay Kaitade</h1>
 </h3>
 
 <!-- =============================== -->
-<!-- 🛠️ Tech Stack Icons -->
+
+<!-- 🛠️ Tech Stack -->
+
 <!-- =============================== -->
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
+
+## 🎨 Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,express,mongodb,git,github,vscode,figma,linux" />
-  <img src="https://skillicons.dev/icons?i=next,materialui,babel,docker,npm,typescript,arduino,bash,cpp,firebase,gitlab,postman,replit,supabase" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,typescript,nextjs" />
+</p>
+
+## ⚙️ Backend & Database
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" />
+</p>
+
+## 🧪 Testing & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postman,docker,git,github,vscode" />
 </p>
 
 ---
@@ -242,34 +279,22 @@ height="45" width="45"/>, I'm Chinmay Kaitade</h1>
 </h3>
 
 <!-- =============================== -->
-<!-- 🔗 Social & Portfolio Links -->
+<!-- 💼 Open to Work -->
 <!-- =============================== -->
 
-## 🔗 Let’s Connect
+## 💼 Open to Work
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/chinmay-sharad-kaitade" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:chinmaykaitade123@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/chinmaydotcom" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://github.com/ChinmayKaitade" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://chinmaykaitadeportfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@chinmaykaitade" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-YES-4C6EF5?style=for-the-badge&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-8A5CF6?style=for-the-badge&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Tech-MERN%20%7C%20Next.js%20%7C%20AI-D94F70?style=for-the-badge&logoColor=FFFFFF" />
 </p>
 
----
+<p align="center">
+  💡 Actively looking for opportunities as a <b>Full Stack Developer / MERN Stack Developer</b><br>
+  📍 Open to roles in <b>Pune, Hyderabad, Bengaluru, Mumbai</b> or Remote
+</p>
 
 <div align="center">
-  <b>💻 Made By ❤️ Chinmay Kaitade © All Rights Reserved 2025</b>
+  <b>💻 Made By ❤️ Chinmay Kaitade © All Rights Reserved 2026</b>
 </div>
